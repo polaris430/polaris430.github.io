@@ -6,18 +6,61 @@ categories: jekyll update
 ---
 Domain 4 - `Operations and Incident Response` covers following topics
 
-- Tools to assess organization security 
-- Incident Response policies, principles and process 
-- Incident Investigation data sources tools 
-- Incident mitigation techniques 
-- Digital Forensics
+1. Tools to assess organization security 
 
-a.1 `Network Reconnaissance and discovery` 
+    * Network Reconnaissance and discovery 
+        - _ping/pathping_
+        - _tracert_
+        - _ipconfig/ifconfig_
+        - _nmap_
 
-_ping/pathping_
-_tracert_
-_ipconfig/ifconfig_
-_nmap_
+    * File Manipulation 
+        - _head_
+        - _tail_ 
+        - _cat_
+        - _grep_
+        - _chmod_
+        - _logger_
+
+    * Shell and Script Environments
+        - _SSH_
+        - _PowerShell_
+        - _Python_
+        - _OpenSSL_
+    
+    * Packet Capture and Replay
+        - _Tcpreplay_
+        - _Tcpdump_
+        - _Wireshark_ 
+    
+    * Forensics 
+        - _dd_
+        - _Memdump_
+        - _WinHex_
+        - _FTK imager_
+        - _Autopsy_
+
+2. Incident Response policies, process and procedures
+
+    * Incident response plans 
+    * Incident response process
+        - _Preparation_ 
+        -  _Identification_
+        - _Containment_
+        - _Eradication_
+        - _Recovery_
+        - _Lessons Learned_
+
+    * Exercises 
+    * Attack frameworks 
+    * Stakeholder Management 
+    * Communication plan 
+    * Disaster recovery plan 
+    * Business continuity plan 
+    * Continuity of operations planning (COOP)
+    * Incident response team 
+    * Retention policies
+
 
 Jekyll also offers powerful support for code snippets:
 
