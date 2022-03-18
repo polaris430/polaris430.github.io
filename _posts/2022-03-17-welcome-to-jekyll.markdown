@@ -4,17 +4,17 @@ title:  "Security 601 notes"
 date:   2022-03-17 18:47:41 -0400
 categories: jekyll update
 ---
-`Domain 4 - Operations and Incident Response` covers following topics
+`Domain 4 - Operations and Incident Response` covers following modules
 
-1. `Tools to assess organization security` 
+1. Tools to assess organization security 
 
-    * Network Reconnaissance and discovery 
+    * ## Network Reconnaissance and discovery 
         - _ping/pathping_
         - _tracert_
         - _ipconfig/ifconfig_
         - _nmap_
 
-    * File Manipulation 
+    * ## File Manipulation 
         - _head_
         - _tail_ 
         - _cat_
@@ -22,18 +22,18 @@ categories: jekyll update
         - _chmod_
         - _logger_
 
-    * Shell and Script Environments
+    * ## Shell and Script Environments
         - _SSH_
         - _PowerShell_
         - _Python_
         - _OpenSSL_
     
-    * Packet Capture and Replay
+    * ## Packet Capture and Replay
         - _Tcpreplay_
         - _Tcpdump_
         - _Wireshark_ 
     
-    * Forensics 
+    * ## Forensics 
         - _dd_
         - _Memdump_
         - _WinHex_
