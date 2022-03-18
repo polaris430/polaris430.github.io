@@ -6,11 +6,11 @@ categories: jekyll update
 ---
 Domain 4 - `Operations and Incident Response` covers following topics
 
-a) Tools to assess organization security 
-b) Incident Response policies, principles and process 
-c) Incident Investigation data sources tools 
-d) Incident mitigation techniques 
-e) Digital Forensics
+- Tools to assess organization security 
+- Incident Response policies, principles and process 
+- Incident Investigation data sources tools 
+- Incident mitigation techniques 
+- Digital Forensics
 
 a.1 `Network Reconnaissance and discovery` 
 
