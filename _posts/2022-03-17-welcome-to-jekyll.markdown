@@ -1,25 +1,28 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Security 601 notes"
 date:   2022-03-17 18:47:41 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Domain 4 - `Operations and Incident Response` covers following topics
 
-Jekyll requires blog post files to be named according to the following format:
+a) Tools to assess organization security 
+b) Incident Response policies, principles and process 
+c) Incident Investigation data sources tools 
+d) Incident mitigation techniques 
+e) Digital Forensics
 
-`YEAR-MONTH-DAY-title.MARKUP`
+a.1 `Network Reconnaissance and discovery` 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+_ping/pathping_
+_tracert_
+_ipconfig/ifconfig_
+_nmap_
 
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+this is a highlight - testing
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
