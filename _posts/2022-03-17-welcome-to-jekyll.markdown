@@ -4,9 +4,9 @@ title:  "Security 601 notes"
 date:   2022-03-17 18:47:41 -0400
 categories: jekyll update
 ---
-Domain 4 - `Operations and Incident Response` covers following topics
+`Domain 4 - Operations and Incident Response` covers following topics
 
-1. Tools to assess organization security 
+1. `Tools to assess organization security` 
 
     * Network Reconnaissance and discovery 
         - _ping/pathping_
@@ -45,7 +45,7 @@ Domain 4 - `Operations and Incident Response` covers following topics
     * Incident response plans 
     * Incident response process
         - _Preparation_ 
-        -  _Identification_
+        - _Identification_
         - _Containment_
         - _Eradication_
         - _Recovery_
