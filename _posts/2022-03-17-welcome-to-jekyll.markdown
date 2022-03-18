@@ -8,13 +8,13 @@ categories: jekyll update
 
 1. Tools to assess organization security 
 
-    * ## Network Reconnaissance and discovery 
+    * Network Reconnaissance and discovery 
         - _ping/pathping_
         - _tracert_
         - _ipconfig/ifconfig_
         - _nmap_
 
-    * ## File Manipulation 
+    * File Manipulation 
         - _head_
         - _tail_ 
         - _cat_
@@ -22,18 +22,18 @@ categories: jekyll update
         - _chmod_
         - _logger_
 
-    * ## Shell and Script Environments
+    * Shell and Script Environments
         - _SSH_
         - _PowerShell_
         - _Python_
         - _OpenSSL_
     
-    * ## Packet Capture and Replay
+    * Packet Capture and Replay
         - _Tcpreplay_
         - _Tcpdump_
         - _Wireshark_ 
     
-    * ## Forensics 
+    * Forensics 
         - _dd_
         - _Memdump_
         - _WinHex_
