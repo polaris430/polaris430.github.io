@@ -6,5 +6,5 @@ categories: jekyll update
 ---
 
 {% highlight ruby %}
-# DOMAIN 5 - Governance, Risk and Compliance
+Domain 5 - Governance Risk and Compliance
 {% endhighlight %}
