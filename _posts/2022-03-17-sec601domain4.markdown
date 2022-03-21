@@ -5,7 +5,7 @@ date:   2022-03-17 18:47:41 -0400
 categories: jekyll update
 ---
 {% highlight ruby %}
-Domain 3 - Operation and Incident Response
+Domain 4 - Operation and Incident Response
 {% endhighlight %}
 
 1. ## Tools to assess organization security 
