@@ -22,10 +22,11 @@ title: Cyberpedia
 email: cyb6rcaf6@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Securtity certifications notes
+  Copyright &copy;  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: p0laris430
+github_username:  polaris430
 
 # Build settings
 theme: minima
